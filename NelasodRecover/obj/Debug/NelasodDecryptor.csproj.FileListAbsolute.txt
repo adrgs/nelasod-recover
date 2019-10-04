@@ -1,0 +1,9 @@
+C:\Users\adragos\source\repos\NelasodDecryptor\NelasodDecryptor\bin\Debug\NelasodDecryptor.exe
+C:\Users\adragos\source\repos\NelasodDecryptor\NelasodDecryptor\bin\Debug\NelasodDecryptor.pdb
+C:\Users\adragos\source\repos\NelasodDecryptor\NelasodDecryptor\obj\Debug\NelasodDecryptor.csprojAssemblyReference.cache
+C:\Users\adragos\source\repos\NelasodDecryptor\NelasodDecryptor\obj\Debug\NelasodDecryptor.MainForm.resources
+C:\Users\adragos\source\repos\NelasodDecryptor\NelasodDecryptor\obj\Debug\NelasodDecryptor.Properties.Resources.resources
+C:\Users\adragos\source\repos\NelasodDecryptor\NelasodDecryptor\obj\Debug\NelasodDecryptor.csproj.GenerateResource.cache
+C:\Users\adragos\source\repos\NelasodDecryptor\NelasodDecryptor\obj\Debug\NelasodDecryptor.csproj.CoreCompileInputs.cache
+C:\Users\adragos\source\repos\NelasodDecryptor\NelasodDecryptor\obj\Debug\NelasodDecryptor.exe
+C:\Users\adragos\source\repos\NelasodDecryptor\NelasodDecryptor\obj\Debug\NelasodDecryptor.pdb
