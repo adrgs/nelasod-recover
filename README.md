@@ -1,6 +1,7 @@
 # NelasodRecover
 Recover files encrypted by Nelasod with plaintext/ciphertext pairs
-Go to *release* to download the compiled binary.
+
+Go to **release** to download the compiled binary.
 
 Made with Windows Forms C#
 
